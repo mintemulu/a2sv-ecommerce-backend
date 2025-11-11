@@ -102,5 +102,4 @@ Base response shape:
 - prisma:migrate: run dev migrations
 - prisma:deploy: deploy migrations in prod
 
-## Testing (Bonus, not implemented)
-- You can add tests with Jest and mock Prisma client for services.
+
