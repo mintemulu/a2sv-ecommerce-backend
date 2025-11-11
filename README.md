@@ -102,4 +102,11 @@ Base response shape:
 - prisma:migrate: run dev migrations
 - prisma:deploy: deploy migrations in prod
 
+## Unit tests
+Run tests:
+```
+npm test
+``` 
+Tests mock Prisma and hit endpoints via Supertest.
+
 
